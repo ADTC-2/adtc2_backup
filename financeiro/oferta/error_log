@@ -1,0 +1,254 @@
+[15-Sep-2023 20:32:27 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:32:27 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:32:27 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:32:27 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:32:27 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:32:27 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:32:27 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:32:27 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:32:58 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'codig267_db_teste1.fertas' doesn't exist in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php:16
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php(16): PDO->query('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php on line 16
+[15-Sep-2023 20:33:07 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:33:07 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:33:07 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:33:07 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:33:07 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:33:07 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:33:07 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:33:07 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:33:52 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:33:52 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:33:52 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:33:52 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:33:52 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:33:52 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:33:52 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:33:52 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:33:54 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'codig267_db_teste1.fertas' doesn't exist in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php:16
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php(16): PDO->query('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php on line 16
+[15-Sep-2023 20:34:02 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:34:02 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:34:02 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:34:02 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:34:02 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:34:02 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:34:02 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:34:02 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 136
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 139
+[15-Sep-2023 20:35:12 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 142
+[15-Sep-2023 20:35:16 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'codig267_db_teste1.fertas' doesn't exist in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php:16
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php(16): PDO->query('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php on line 16
+[15-Sep-2023 20:35:21 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:35:21 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:35:54 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:35:54 America/Fortaleza] PHP Warning:  Undefined array key "id_oferta" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_lista_oferta.php on line 130
+[15-Sep-2023 20:35:57 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'codig267_db_teste1.fertas' doesn't exist in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php:16
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php(16): PDO->query('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php on line 16
+[15-Sep-2023 20:37:39 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'codig267_db_teste1.fertas' doesn't exist in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php:16
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php(16): PDO->query('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_alterar_oferta.php on line 16
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 18
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Undefined variable $linhas in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 63
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 63
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Undefined variable $linhas in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 64
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 64
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Undefined variable $linhas in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 65
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 65
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Undefined variable $linhas in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 66
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 66
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Undefined variable $linhas in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 67
+[16-Sep-2023 11:34:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 67
+[16-Sep-2023 11:42:54 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_ofertas' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php:21
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php(21): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 21
+[16-Sep-2023 11:48:29 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_ofertas' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php:21
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php(21): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 21
+[16-Sep-2023 11:48:34 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_ofertas' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php:21
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php(21): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 21
+[16-Sep-2023 11:48:45 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_ofertas' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php:21
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php(21): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 21
+[16-Sep-2023 11:56:41 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_ofertas' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php:22
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php(22): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 22
+[16-Sep-2023 11:56:58 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_ofertas' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php:22
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php(22): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/tela_comprovante_oferta.php on line 22
+[16-Sep-2023 13:24:14 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/codig267/public_html/adtc2/financeiro/oferta/lancamentos.php on line 70
+[27-Oct-2023 19:47:02 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 19:47:03 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 19:47:09 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 19:47:39 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 19:48:39 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 19:53:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 19:53:18 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 19:55:04 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 47
+[27-Oct-2023 19:55:04 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 19:55:04 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 19:55:13 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 47
+[27-Oct-2023 19:55:13 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 19:55:13 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 19:55:19 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 47
+[27-Oct-2023 19:55:19 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 19:55:19 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 19:59:47 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 47
+[27-Oct-2023 19:59:47 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 19:59:47 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 20:00:56 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 47
+[27-Oct-2023 20:00:56 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 20:00:56 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 20:00:58 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 47
+[27-Oct-2023 20:00:58 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 20:00:58 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 20:01:06 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 47
+[27-Oct-2023 20:01:06 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 20:01:06 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 20:01:09 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 47
+[27-Oct-2023 20:01:09 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 20:01:09 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 20:12:29 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 47
+[27-Oct-2023 20:12:29 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 20:12:29 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php:56
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php(56): PDO->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 56
+[27-Oct-2023 20:14:27 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 20:14:27 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 49
+[27-Oct-2023 20:16:30 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 20:16:30 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 49
+[27-Oct-2023 20:18:17 America/Fortaleza] PHP Warning:  Undefined array key "data_inicio" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 48
+[27-Oct-2023 20:18:17 America/Fortaleza] PHP Warning:  Undefined array key "data_fim" in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 49
+[28-Oct-2023 11:23:00 America/Fortaleza] PHP Parse error:  Unclosed '[' does not match ')' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php on line 84
+[28-Oct-2023 11:25:07 America/Fortaleza] PHP Parse error:  Unclosed '[' does not match ')' in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php on line 84
+[28-Oct-2023 11:30:37 America/Fortaleza] PHP Warning:  Undefined variable $sumByCongregation in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php on line 107
+[28-Oct-2023 11:30:37 America/Fortaleza] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php on line 107
+[28-Oct-2023 23:52:20 America/Fortaleza] PHP Warning:  Undefined variable $pdfFilename in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php on line 140
+[28-Oct-2023 23:52:20 America/Fortaleza] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php:140
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php(140): file_put_contents('', '%PDF-1.7\n1 0 ob...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php on line 140
+[28-Oct-2023 23:52:33 America/Fortaleza] PHP Warning:  Undefined variable $pdfFilename in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php on line 140
+[28-Oct-2023 23:52:33 America/Fortaleza] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php:140
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php(140): file_put_contents('', '%PDF-1.7\n1 0 ob...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/oferta/relatorios_oferta.php on line 140
+[16-Jun-2024 19:06:18 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 64
+[16-Jun-2024 19:06:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/oferta/relatorios_oferta_excel.php:64
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 64
+[16-Jun-2024 19:06:20 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 64
+[16-Jun-2024 19:06:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/oferta/relatorios_oferta_excel.php:64
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 64
+[16-Jun-2024 19:06:25 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 64
+[16-Jun-2024 19:06:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/oferta/relatorios_oferta_excel.php:64
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/oferta/relatorios_oferta_excel.php on line 64

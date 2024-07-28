@@ -1,0 +1,10 @@
+.main-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f8f9fa; /* altere a cor de fundo conforme necessário */
+    padding: 10px 20px; /* ajuste o preenchimento conforme necessário */
+    text-align: center;
+    z-index: 1000; /* garante que o footer fique acima de outros elementos, se houver */
+}

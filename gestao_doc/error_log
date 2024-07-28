@@ -1,0 +1,5 @@
+[12-Jun-2024 09:29:38 America/Fortaleza] PHP Warning:  Undefined variable $linhas in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/tela_visualizar_modelos.php on line 171
+[12-Jun-2024 09:29:38 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/tela_visualizar_modelos.php on line 171
+[12-Jun-2024 09:30:14 America/Fortaleza] PHP Warning:  Undefined variable $linhas in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/tela_visualizar_modelos.php on line 171
+[12-Jun-2024 09:30:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/tela_visualizar_modelos.php on line 171
+[01-Jul-2024 22:06:14 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/index.php on line 57

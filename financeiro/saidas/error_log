@@ -1,0 +1,87 @@
+[28-Oct-2023 10:22:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function get_cellmap() on null in /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:40
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(913): Dompdf\FrameReflower\TableCell->reflow(Object(Dompdf\FrameDecorator\Block))
+#1 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameReflower/Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#2 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(NULL)
+#3 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameReflower/Page.php(142): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/Dompdf.php(765): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/codig267/public_html/adtc2/financeiro/saidas/relatorios_saida.php(119): Dompdf\Dompdf->render()
+#7 {main}
+  thrown in /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 40
+[28-Oct-2023 10:22:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function get_cellmap() on null in /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:40
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(913): Dompdf\FrameReflower\TableCell->reflow(Object(Dompdf\FrameDecorator\Block))
+#1 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameReflower/Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#2 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(NULL)
+#3 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameReflower/Page.php(142): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/Dompdf.php(765): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/codig267/public_html/adtc2/financeiro/saidas/relatorios_saida.php(119): Dompdf\Dompdf->render()
+#7 {main}
+  thrown in /home2/codig267/public_html/adtc2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 40
+[28-Oct-2023 11:44:33 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:44:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:44:39 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:44:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:46:46 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:46:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:48:05 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:48:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:52:11 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:52:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:52:38 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:52:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:52:39 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:52:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:52:42 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:52:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:54:07 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:54:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:54:08 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:54:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:54:11 America/Fortaleza] PHP Warning:  require_once(../db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[28-Oct-2023 11:54:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/lancamentos.php on line 14
+[29-Oct-2023 00:26:38 America/Fortaleza] PHP Warning:  Undefined variable $pdfFilename in /home2/codig267/public_html/adtc2/financeiro/saidas/relatorios_saida.php on line 133
+[29-Oct-2023 00:26:38 America/Fortaleza] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home2/codig267/public_html/adtc2/financeiro/saidas/relatorios_saida.php:133
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/financeiro/saidas/relatorios_saida.php(133): file_put_contents('', '%PDF-1.7\n1 0 ob...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/financeiro/saidas/relatorios_saida.php on line 133
+[12-Apr-2024 20:12:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Dompdf\Dompdf" not found in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/saidas/relatorios_saida.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/financeiro/saidas/relatorios_saida.php on line 15
